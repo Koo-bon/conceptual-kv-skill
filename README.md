@@ -29,7 +29,7 @@
 
 ### Claude Code
 ```bash
-git clone https://github.com/koo950101/conceptual-kv-skill.git
+git clone https://github.com/Koo-bon/conceptual-kv-skill.git
 mkdir -p ~/.claude/skills/conceptual-kv
 cp conceptual-kv-skill/conceptual-kv/SKILL.md ~/.claude/skills/conceptual-kv/
 ```
