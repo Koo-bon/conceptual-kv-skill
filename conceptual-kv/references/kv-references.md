@@ -82,8 +82,19 @@
 - **인플레이터블/젤리 3D(Nike Air Max)** — 제품 USP를 공기주입 오브제 세계로 치환.
 > 레버: `pixel mosaic / dithered / low-res as concept`, `inflatable jelly 3D world`. 매질 변환 자체가 아이디어.
 
+## 유형 G — 캠페인 히어로 (K-pop/테크뷰티 레퍼런스 — 2026-07-14 추가)
+Behance(에스파 Drama·KV 무드보드)·LG Pra.L 관찰에서 뽑음. 유형 B(타이포 주인공)의 상급 버전 + 신규 레이아웃 2종.
+- **타이포=3D 조형 오브제(에스파 Drama)** — 리퀴드메탈 타이틀을 "효과"가 아니라 화면을 가득 채우는 **거대한 3D 조각 오브젝트**로 세운다. 배경은 순수 블랙, 타이포 자체가 유일한 피사체.
+- **강제원근 거인화(에스파 Drama·카리나)** — 인물이 도시 스카이라인보다 거대하게 겹쳐 서있다. 스케일 대비가 곧 임팩트.
+- **매거진 마스트헤드 레이아웃(Schön!)** — 볼드 콘덴스드 산세리프가 화면 상단 1/3을 장악하고, 인물은 그 아래 비대칭 여백에 부자연스럽게 우아한 포즈(대담한 몸 비틀기)로 배치. 타이포와 인물이 상하 분리.
+- **모서리 분산 레터링(Behance KV 무드보드 "TASMON")** — 글자를 중앙 블록으로 안 모으고 **프레임 네 귀퉁이에 하나씩 흩뿌려** 배치. 여백이 곧 레이아웃의 긴장감.
+- **테크뷰티 웜 링라이트(LG Pra.L)** — 화이트·다크 미니멀 스튜디오 제품컷에 **골드/웜톤 링라이트 하이라이트**를 포인트로. 클리니컬하면서도 프리미엄.
+- **뒷모습 실루엣 초상(Behance photo 무드보드)** — 얼굴을 안 보여주고 조형적인 헤어·실루엣 + 쿨톤 그라디언트 역광으로 미스터리·하이패션 톤.
+> 레버: `giant 3D sculptural liquid-metal typography as the sole subject`, `forced-scale portrait towering over city skyline`, `bold condensed masthead type dominating upper third + contorted elegant pose below`, `letters scattered to the four corners of frame instead of centered block`, `warm gold ring-light accent on clean tech-beauty product`, `rear silhouette portrait with cool gradient backlight`.
+
 ## 프롬프트로 옮길 때 체크
-- 이 KV는 **어느 유형(A~F)**인가? 유형을 먼저 정하고 그 레버를 프롬프트에 넣는다.
-- 오브제 위트(A) / 타이포 주인공(B) / 재질감 재해석(F) 중 최소 하나는 있어야 "컨셉 원샷".
+- 이 KV는 **어느 유형(A~G)**인가? 유형을 먼저 정하고 그 레버를 프롬프트에 넣는다.
+- 오브제 위트(A) / 타이포 주인공(B·G) / 재질감 재해석(F) 중 최소 하나는 있어야 "컨셉 원샷".
 - 배경은 강렬 원색(C)이거나 시네마틱 에디토리얼(D)이거나 클린 스튜디오(E) — 지저분한 합성 배경 ❌.
-- 타이포는 무드에 맞는 서체 처리(SKILL.md 3단계 표)로. 밋밋한 고딕 ❌. 스트레치·왜곡 세리프(앵커 1)·벌룬(앵커 5)·찢기(앵커 3)도 옵션.
+- 타이포는 무드에 맞는 서체 처리(SKILL.md 3단계 표)로. 밋밋한 고딕 ❌. 스트레치·왜곡 세리프(앵커 1)·벌룬(앵커 5)·찢기(앵커 3)·3D 조형 오브제(유형 G)도 옵션.
+- 레이아웃도 중앙정렬만 고집하지 말 것 — 마스트헤드형 상하분리(G)나 모서리 분산(G)도 강력한 선택지.
