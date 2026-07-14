@@ -92,9 +92,29 @@ Behance(에스파 Drama·KV 무드보드)·LG Pra.L 관찰에서 뽑음. 유형 
 - **뒷모습 실루엣 초상(Behance photo 무드보드)** — 얼굴을 안 보여주고 조형적인 헤어·실루엣 + 쿨톤 그라디언트 역광으로 미스터리·하이패션 톤.
 > 레버: `giant 3D sculptural liquid-metal typography as the sole subject`, `forced-scale portrait towering over city skyline`, `bold condensed masthead type dominating upper third + contorted elegant pose below`, `letters scattered to the four corners of frame instead of centered block`, `warm gold ring-light accent on clean tech-beauty product`, `rear silhouette portrait with cool gradient backlight`.
 
+## 유형 H — 매크로 오브제 스타일링 (eugene_brusco 관찰 — 2026-07-14 추가)
+광고·제품 전문 포토그래퍼 계정에서 뽑음. 합성처럼 안 보이는 **정교한 실물 프롭 페어링**.
+- **립스틱 + 금체인** — 제품을 무관한 럭셔리 질감 오브제(주얼리) 위에 얹어 소재 대비로 고급감.
+- **세럼병 + 진짜 어항(살아있는 금붕어)** — USP(수분감)를 "물속에 담긴 제품"으로 극도로 문자적이지만 매크로 촬영·조명이 정교해 유치하지 않고 우아하다. (1차원 직역 금지 원칙의 예외 — **실물처럼 정교하게 찍으면 직역도 고급스러울 수 있다**)
+> 레버: `macro product photography, elegant prop pairing with contrasting texture (metal chain / jewelry / liquid glass)`, `studio macro lighting, shallow depth of field, tack-sharp product focus`.
+
+## 유형 I — UI 카드 그리드 레이아웃 (tense__official 관찰 — 2026-07-14 추가)
+한 컷에 **여러 제품/서비스**를 소개해야 할 때 쓰는 레이아웃.
+- **브러시드 메탈 배경 + 3D 엠보싱 대형 타이틀**(백색 입체 양각, 무광 스틸 텍스처) 상단 배치.
+- 그 아래 **둥근 모서리 카드 그리드**(앱 아이콘/기능 메뉴 UI 느낌)로 각 제품컷+캡션을 나열. KV 한 장이 "미니 카탈로그"가 된다.
+> 레버: `brushed steel textured background, embossed 3D titlecase headline, white matte relief`, `grid of rounded-corner cards below, each with product photo + caption label, app-icon menu layout`.
+
+## 유형 J — 럭셔리 컨셉추얼 CGI (studio_brasch 관찰 — 2026-07-14 추가)
+프리미엄 향수·뷰티 브랜드급 아트디렉션. 유형 F(재질감 재해석)의 최상급 버전.
+- **유물화(archaeological artifact)** — 브랜드명을 부서진 고대 석판에 새겨 금속 받침대 위에 전시하듯 놓는다. 브랜드 헤리티지를 "역사적 유물"로 재해석.
+- **맥시멀 식물원 디오라마** — 온실 안 무성한 식물·새·빛줄기 사이에 제품들을 자연스럽게 배치한 회화적 CGI 월드. 미니어처 월드(유형 A)의 초고밀도·초정교 버전.
+- **매크로 꽃잎 + 세리프 워드마크** — 반투명 꽃잎을 극단적으로 클로즈업하고 그 위에 우아한 세리프 브랜드명을 얹는다. 여백 대신 오브제 자체가 배경.
+> 레버: `ancient artifact treatment, brand name engraved into weathered stone tablet on museum pedestal`, `lush painterly greenhouse diorama world with product nested among exotic botanicals and birds`, `macro translucent flower petal photography with elegant serif wordmark overlay`.
+
 ## 프롬프트로 옮길 때 체크
-- 이 KV는 **어느 유형(A~G)**인가? 유형을 먼저 정하고 그 레버를 프롬프트에 넣는다.
-- 오브제 위트(A) / 타이포 주인공(B·G) / 재질감 재해석(F) 중 최소 하나는 있어야 "컨셉 원샷".
+- 이 KV는 **어느 유형(A~J)**인가? 유형을 먼저 정하고 그 레버를 프롬프트에 넣는다.
+- 오브제 위트(A) / 타이포 주인공(B·G) / 재질감 재해석(F) / 매크로 오브제 스타일링(H) / 럭셔리 CGI(J) 중 최소 하나는 있어야 "컨셉 원샷".
 - 배경은 강렬 원색(C)이거나 시네마틱 에디토리얼(D)이거나 클린 스튜디오(E) — 지저분한 합성 배경 ❌.
-- 타이포는 무드에 맞는 서체 처리(SKILL.md 3단계 표)로. 밋밋한 고딕 ❌. 스트레치·왜곡 세리프(앵커 1)·벌룬(앵커 5)·찢기(앵커 3)·3D 조형 오브제(유형 G)도 옵션.
-- 레이아웃도 중앙정렬만 고집하지 말 것 — 마스트헤드형 상하분리(G)나 모서리 분산(G)도 강력한 선택지.
+- 타이포는 무드에 맞는 서체 처리(SKILL.md 3단계 표)로. 밋밋한 고딕 ❌. 스트레치·왜곡 세리프(앵커 1)·벌룬(앵커 5)·찢기(앵커 3)·3D 조형 오브제(G)·브러시드메탈 엠보싱(I)도 옵션.
+- 레이아웃도 중앙정렬만 고집하지 말 것 — 마스트헤드형 상하분리(G)·모서리 분산(G)·UI 카드 그리드(I, 제품 여러 개일 때)도 강력한 선택지.
+- **제품이 여러 개**면 유형 I(카드 그리드)를, **럭셔리·헤리티지 브랜드**면 유형 J(유물·디오라마)를 우선 검토.
